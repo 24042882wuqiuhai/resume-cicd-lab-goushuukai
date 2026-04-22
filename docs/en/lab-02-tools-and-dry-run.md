@@ -134,4 +134,17 @@ Proved your toolchain is complete and rehearsed the emergency exit when the stak
 
 ## Up next
 
+## Tool Versions (Output)
+
+- git version 2.43.0
+- Python 3.12.3
+- Node.js v22.22.2
+- npm 10.9.7
+- aws-cli/2.34.14 Python/3.14.3 Linux/6.6.87.2-microsoft-standard-WSL2 exe/x86_64.ubuntu.24
+- gh version 2.91.0 (2026-04-22)
+- jq-1.7
+
+
+
+
 [Lab 3 — Wire the Lab (dev only)](./lab-03-wire-the-lab.md)
