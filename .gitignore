@@ -20,3 +20,4 @@ app2/vite.config.d.ts
 source/~$*.xlsx
 source/Icon-package_*.zip
 source/職務経歴書_goushuukai.xlsx
+.venv/
