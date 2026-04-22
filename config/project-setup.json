@@ -29,7 +29,7 @@
   },
   "safety": {
     "dailyCap": 10,
-    "email": ""
+    "email": "24042882wuqiuhai@gmail.com"
   },
   "release": {
     "bootstrapVersion": "0.1.0",
@@ -65,5 +65,8 @@
       "publicSubnet2Cidr": "10.60.1.0/24",
       "desiredCount": 2
     }
+  },
+  "ui": {
+    "locale": "ja"
   }
 }
