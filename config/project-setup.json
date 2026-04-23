@@ -5,8 +5,8 @@
     "description": "Hands-on CI/CD teaching lab that ships a resume."
   },
   "github": {
-    "owner": "shiicho",
-    "repo": "resume-cicd-lab-goushuukai-template",
+    "owner": "24042882wuqiuhai",
+    "repo": "resume-cicd-lab-goushuukai",
     "visibility": "public",
     "createRepo": true,
     "topics": [
@@ -21,10 +21,10 @@
   },
   "aws": {
     "region": "ap-northeast-1",
-    "stackPrefix": "resume-cicd-lab",
-    "resourceProjectName": "resume",
-    "resourceIdentifier": "cicd-lab",
-    "resourceShortIdentifier": "cl",
+    "stackPrefix": "wuqiuhai-cicd",
+    "resourceProjectName": "wuqiuhai",
+    "resourceIdentifier": "my-cicd-lab",
+    "resourceShortIdentifier": "wq",
     "existingGitHubOidcProviderArn": ""
   },
   "safety": {
