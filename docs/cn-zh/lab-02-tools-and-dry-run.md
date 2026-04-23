@@ -135,3 +135,15 @@
 ## 下一个
 
 [Lab 3 — Wire the Lab (dev only)](./lab-03-wire-the-lab.md)
+
+## My environment
+
+Recorded 2026-04-23:
+
+- `git --version` → git 2.43.0
+- `python3 --version` → Python 3.12.3
+- `node --version` → v22.22.2
+- `npm --version` → 10.9.7
+- `aws --version` → aws-cli/2.34.14
+- `gh --version` → gh version 2.91.0 (2026-04-22)
+- `jq --version` → jq-1.7
