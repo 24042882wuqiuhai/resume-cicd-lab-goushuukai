@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0](https://github.com/24042882wuqiuhai/resume-cicd-lab-goushuukai/compare/web-v0.2.0...web-v0.3.0) (2026-04-25)
+
+
+### Features
+
+* **resume:** add talking point about release           pipeline ([#12](https://github.com/24042882wuqiuhai/resume-cicd-lab-goushuukai/issues/12)) ([7425bb1](https://github.com/24042882wuqiuhai/resume-cicd-lab-goushuukai/commit/7425bb17c09cd4df367de0140b3cff4076a9b987))
+* **safety:** configure budget tripwire ([#5](https://github.com/24042882wuqiuhai/resume-cicd-lab-goushuukai/issues/5)) ([e6a7aab](https://github.com/24042882wuqiuhai/resume-cicd-lab-goushuukai/commit/e6a7aabc27f2450cc495cf8ea78e7113f0008dfc))
+
 ## [0.2.0](https://github.com/shiicho/resume-cicd-lab/compare/web-v0.1.0...web-v0.2.0) (2026-04-21)
 
 
