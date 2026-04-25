@@ -1,13 +1,13 @@
 {
   "environment": "staging",
-  "publicBaseUrl": "https://resume-stg.example.com",
-  "artifactBucket": "resume-shared-s3-artifact-cicd-lab-123456789012",
+  "publicBaseUrl": "https://d3a3gm13mhyh29.cloudfront.net",
+  "artifactBucket": "wuqiuhai-shared-s3-artifact-my-cicd-lab-827117942915",
   "artifactKey": "web/releases/0.1.0/bootstrap/site.zip",
-  "siteBucket": "resume-stg-s3-site-cicd-lab-123456789012",
-  "cloudFrontDistributionId": "",
+  "siteBucket": "wuqiuhai-stg-s3-site-my-cicd-lab-827117942915",
+  "cloudFrontDistributionId": "E2AQY45ONUR1M6",
   "release": {
     "version": "0.1.0",
     "gitSha": "bootstrap"
   },
-  "cloudFormationStack": "resume-cicd-lab-stg-static-site"
+  "cloudFormationStack": "wuqiuhai-cicd-stg-static-site"
 }
