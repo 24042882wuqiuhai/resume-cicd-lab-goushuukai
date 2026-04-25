@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/24042882wuqiuhai/resume-cicd-lab-goushuukai/compare/web-v0.3.0...web-v0.4.0) (2026-04-25)
+
+
+### Features
+
+* **web:** wire pipeline-info.json into release build ([#15](https://github.com/24042882wuqiuhai/resume-cicd-lab-goushuukai/issues/15)) ([a6fdc4c](https://github.com/24042882wuqiuhai/resume-cicd-lab-goushuukai/commit/a6fdc4ce3fd7c883083b8c85976120948a8d4294))
+
 ## [0.3.0](https://github.com/24042882wuqiuhai/resume-cicd-lab-goushuukai/compare/web-v0.2.0...web-v0.3.0) (2026-04-25)
 
 
