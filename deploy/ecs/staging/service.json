@@ -1,7 +1,7 @@
 {
   "environment": "staging",
-  "cluster": "resume-stg-ecs-cluster-cicd-lab",
-  "service": "resume-stg-ecs-service-cicd-lab",
+  "cluster": "wuqiuhai-stg-ecs-cluster-my-cicd-lab",
+  "service": "wuqiuhai-stg-ecs-service-my-cicd-lab",
   "waitForSteadyState": true,
-  "cloudFormationStack": "resume-cicd-lab-stg-ecs-app"
+  "cloudFormationStack": "wuqiuhai-cicd-stg-ecs-app"
 }
