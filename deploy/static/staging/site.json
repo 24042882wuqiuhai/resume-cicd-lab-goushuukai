@@ -2,12 +2,12 @@
   "environment": "staging",
   "publicBaseUrl": "https://d3a3gm13mhyh29.cloudfront.net",
   "artifactBucket": "wuqiuhai-shared-s3-artifact-my-cicd-lab-827117942915",
-  "artifactKey": "web/releases/0.1.0/bootstrap/site.zip",
+  "artifactKey": "web/releases/web-v0.4.0+92ed07f9f739/site.zip",
   "siteBucket": "wuqiuhai-stg-s3-site-my-cicd-lab-827117942915",
   "cloudFrontDistributionId": "E2AQY45ONUR1M6",
   "release": {
-    "version": "0.1.0",
-    "gitSha": "bootstrap"
+    "version": "0.4.0",
+    "gitSha": "92ed07f9f739"
   },
   "cloudFormationStack": "wuqiuhai-cicd-stg-static-site"
 }
